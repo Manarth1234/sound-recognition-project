@@ -1,0 +1,38 @@
+body {
+    background: yellow;
+}
+.header_div {
+    background: orange;
+    color: yellow;
+}
+
+.header_div p {
+    color: red;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.main_div {
+    background: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main_div button  {
+    margin-top: 30px;
+    color: lightskyblue;
+    font-family: cursive;
+    font-weight: bold;
+    border-radius: 15px;
+    width: 130px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    font-family: fantasy;
+    font-weight: bold;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(56, 54, 54);
+}
